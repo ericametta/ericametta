@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ericametta
-- 👀 I’m interested in software development and AI
-- 🌱 I’m currently learning web development(html,css, js) and python
+- 🌱 I’m currently into web development(html,css, js) and python
 - 📫 How to reach me: ig & twitter: @erica_metta
 
 <!---
