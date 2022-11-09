@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericametta
-- 🌱 I’m currently into web development(html,css, js) and python
+- 🌱 Hardware Design Engineer 
 - 📫 How to reach me: ig & twitter: @erica_metta
 
 <!---
