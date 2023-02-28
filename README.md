@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Erica
+#👋 Hi, I’m Erica
 - 🌱 Software Development and Hardware Design Engineer 
 - 📫 How to reach me: twitter: @erica_metta
 
