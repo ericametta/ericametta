@@ -1,6 +1,12 @@
-#👋 Hi, I’m Erica
-- 🌱 Software Development and Hardware Design Engineer 
-- 📫 How to reach me: twitter: @erica_metta
+# 👋 Hi, I’m Erica
+## 🌱 Software Engineer 
+
+- I love building stuff and I would be exploring Artificial Intelligence soon.
+> Tech is one of the greatest forms of human expression.
+- 
+- I'm an artist as well, so double human expression for me. HAHA.
+- 
+- 📫 You can reach me on twitter: @erica_metta
 
 <!---
 ericametta/ericametta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
