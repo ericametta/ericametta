@@ -1,11 +1,13 @@
-# 👋 Hi, I’m Erica
-## 🌱 Software Engineer 
+# 👋 Hi there, I’m Erica
+## Software Engineer @ Ohio University
+### Currently pursuing a masters degree in Electrical Engineering
 
 - I love building stuff and I would be exploring Artificial Intelligence soon.
-> Tech is one of the greatest forms of human expression.
-- 
-- I'm an artist as well, so double human expression for me. HAHA.
-- 
+
+  > Tech is one of the greatest forms of human expression.
+ 
+  #####  I'm an artist as well, so double human expression for me. HAHA.
+ 
 - 📫 You can reach me on twitter: @erica_metta
 
 <!---
