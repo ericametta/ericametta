@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Erica
 ## Software Engineer @ Ohio University
-### Currently pursuing a masters degree in Electrical Engineering
+### Currently pursuing a masters degree in Electrical and Computer Engineering
 
 - I love building stuff, exploring data and creating models.
 
