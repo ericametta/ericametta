@@ -1,8 +1,8 @@
 # 👋 Hi there, I’m Erica
-## Data Scientist @ Ohio University
-### Currently pursuing a masters degree in Electrical and Computer Engineering
+## Software and Data
+### Masters degree in Electrical and Computer Engineering
 
-- I love building stuff, exploring data and creating models.
+- I love building new tech stuff, exploring data and creating models.
 
   > Tech is one of the greatest forms of human expression.
  
